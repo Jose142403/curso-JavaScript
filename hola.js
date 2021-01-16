@@ -1,4 +1,5 @@
-function function_name(nombre) {
-	alert("hola"+nombre);
-}
-saludo("marcos")
+function saludo(nombre) {
+document.write("hola "+nombre +"\n");}
+saludo("jose");
+saludo("maria")
+
