@@ -1,7 +1,4 @@
-function saludo(nombre,apellido) {
-document.write("hola "+nombre +apellido+"<br>");}
-saludo("jose ","Gaviria");
-saludo("maria ","Garcia");
-saludo("juan ","")
-
-
+const sumar=(a,b)=>{
+	document.write(a+b);
+}
+sumar(5,5);
